@@ -1,3 +1,0 @@
-/home/workspace/EllaCM/Project1/build/CMakeFiles/edit_cache.dir
-/home/workspace/EllaCM/Project1/build/CMakeFiles/hello.dir
-/home/workspace/EllaCM/Project1/build/CMakeFiles/rebuild_cache.dir
